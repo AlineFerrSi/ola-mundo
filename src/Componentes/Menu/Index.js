@@ -3,7 +3,6 @@ import style from './Menu.module.css'
 import MenuLink from '../MenuLink/Index'
 
 
-
 export default function Menu(){
 
     return (
@@ -16,3 +15,4 @@ export default function Menu(){
         </header>
     )
 }
+
